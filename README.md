@@ -1,9 +1,10 @@
 <h1>Hey 👋! Soy ruimar-dev 👨🏻‍💻</h1>
 <h2>Soy un futuro desarrollador web con ganas de crear proyectos 👇</h2>
-<ul>Estudiando:</ul>
+<ul>Estudiando:
 <li>Java</li>
 <li>HTML</li>
 <li>CSS</li>
+ </ul>
 <p>Me gusta mucho el mundo de la programación y la tecnología👨‍💻</p>
 <p>Haciendo el grado superior en desarrollo de aplicaciones web y cursos en Platzi</p>
 <p>Soy una persona con muchas ganas de aprender💻y mejorar cada dia💪</p>
