@@ -1,6 +1,7 @@
 <h1>Hey 👋! Soy ruimar-dev 👨🏻‍💻</h1>
 <h2>Soy un futuro desarrollador web con ganas de crear proyectos 👇</h2>
-<ul>Estudiando:
+<p>Estudiando:
+<ul>
 <li>Java</li>
 <li>HTML</li>
 <li>CSS</li>
