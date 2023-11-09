@@ -5,6 +5,8 @@
 <li>Java</li>
 <li>HTML</li>
 <li>CSS</li>
+<li>PHP</li>
+<li>Javascript</li>
  </ul>
 <p>Me gusta mucho el mundo de la programación y la tecnología👨‍💻</p>
 <p>Haciendo el grado superior en desarrollo de aplicaciones web y cursos en Platzi</p>
