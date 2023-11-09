@@ -6,7 +6,7 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>PHP</li>
-<li>[Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</li>
+<li><a>[Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</a></li>
  </ul>
 <p>Me gusta mucho el mundo de la programación y la tecnología👨‍💻</p>
 <p>Haciendo el grado superior en desarrollo de aplicaciones web y cursos en Platzi</p>
