@@ -11,7 +11,7 @@
 <p>Haciendo el grado superior en desarrollo de aplicaciones web y cursos en Platzi</p>
 <p>Soy una persona con muchas ganas de aprender💻y mejorar cada dia💪</p>
 <h2>Redes Sociales</h2>
-<a href="[https://twitter.com/Zertin222](https://x.com/ruimardev?t=b0lH9wXMb2yYK6GBLX37WA&s=09)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://x.com/ruimardev?t=b0lH9wXMb2yYK6GBLX37WA&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 
 
